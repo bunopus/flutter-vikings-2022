@@ -1,1 +1,2 @@
-# flutter-vikings-2022
+## Flutter Vikings 2022
+### Google community booth activities
